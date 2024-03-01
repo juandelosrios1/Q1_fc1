@@ -1,0 +1,13 @@
+Repositorio Juan de los Rios(juandelosrios1) y Jeison Ramos(ZixagooN)
+
+Repositorio creado por juandelosrios1.
+se ha enviado la invitacion de colaborador a zixagooN y la ha aceptado, posteriormente clona el repositorio de forma local.
+
+1. juandelosrios1 Crea README y lo sube al repositorio de github
+2: ZixagooN Crea README y lo sube al repositorio de giuthub
+    3. El archivo README ha sido remplazado, se ha subido desde github directamente
+
+
+Se ha agregado README1 juandelosrios1
+
+
